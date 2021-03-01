@@ -5,8 +5,6 @@ Building a React and Redux front-end application for Magic-books Inc. bootstrapp
 
 > Click [here](https://eager-knuth-397b8f.netlify.app/) for live demo
 
-![screenshot](./coming_soon.gif)
-
 ## Built With
 - React-redux
 - Redux
