@@ -1,7 +1,12 @@
+import React from 'react';
+import BooksList from '../containers/BookList';
+import BooksForm from '../containers/BookForm';
+
 function App() {
   return (
     <div className="App">
-      <h1>React-Redux</h1>
+      <BooksList />
+      <BooksForm />
     </div>
   );
 }
